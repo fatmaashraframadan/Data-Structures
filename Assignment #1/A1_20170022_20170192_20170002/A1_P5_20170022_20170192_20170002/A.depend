@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1551087884 source:d:\education\acm\junior training\a\main.cpp
+	<algorithm>
+	<bitset>
+	<complex>
+	<deque>
+	<exception>
+	<fstream>
+	<functional>
+	<iomanip>
+	<ios>
+	<iosfwd>
+	<iostream>
+	<iterator>
+	<limits>
+	<list>
+	<locale>
+	<map>
+	<memory>
+	<new>
+	<numeric>
+	<queue>
+	<set>
+	<sstream>
+	<stack>
+	<stdexcept>
+	<streambuf>
+	<string>
+	<typeinfo>
+	<utility>
+	<valarray>
+	<vector>
+	<bits/stdc++.h>
+
